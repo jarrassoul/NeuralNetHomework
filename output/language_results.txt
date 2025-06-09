@@ -1,0 +1,10 @@
+Final Test Accuracy: 61.11%
+Best Validation Accuracy: 66.67%
+
+Model Architecture:
+BiLSTMClassifier(
+  (embedding): Embedding(31, 128, padding_idx=0)
+  (lstm): LSTM(128, 128, num_layers=2, batch_first=True, bidirectional=True)
+  (fc): Linear(in_features=256, out_features=3, bias=True)
+  (dropout): Dropout(p=0.3, inplace=False)
+)

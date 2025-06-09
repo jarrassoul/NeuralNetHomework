@@ -1,0 +1,15 @@
+Language Classification Results
+============================
+
+Test Accuracy: 86.26%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     English       0.80      0.96      0.87        46
+     Spanish       0.93      0.78      0.85        69
+      French       0.86      0.88      0.87        67
+
+    accuracy                           0.86       182
+   macro avg       0.86      0.87      0.86       182
+weighted avg       0.87      0.86      0.86       182
